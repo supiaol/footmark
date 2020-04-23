@@ -1,0 +1,29 @@
+{
+  "properties": [
+    {
+      "name": "rocketmq.name.server",
+      "type": "java.lang.String",
+      "description": "Description for rocketmq.name.server."
+    },
+    {
+      "name": "rocketmq.topic",
+      "type": "java.lang.String",
+      "description": "Description for rocketmq.topic."
+    },
+    {
+      "name": "rocketmq.tags",
+      "type": "java.lang.String",
+      "description": "Description for rocketmq.tags."
+    },
+    {
+      "name": "rocketmq.producer.group",
+      "type": "java.lang.String",
+      "description": "Description for rocketmq.producer.group."
+    },
+    {
+      "name": "rocket.consumer.group",
+      "type": "java.lang.String",
+      "description": "Description for rocket.consumer.group."
+    }
+  ]
+}
